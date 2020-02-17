@@ -20,3 +20,5 @@ GitHub is a platform for providing VCS -> version control series
 Now this file is in ide-branch!
 
 First commit is done
+
+Edited in IDE in ide-branch
